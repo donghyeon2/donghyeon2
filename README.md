@@ -1,8 +1,7 @@
 ### Hi Welcome, i'm DONGHYEON LEE 👋
 
 #### Security Engineering 
-interest about security, develop
-make more sefe
+interest about security, Development
 
 
 🛠️ Stacks
