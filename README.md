@@ -14,10 +14,9 @@ interest about security, Development
 
 📚 Personal History
 
-Tokyo University of Science (2021.04 ~)
+Tokyo University of Science 
 
 
-KITRI Best of the Best 6th Vulnerability Analysis (2017.06 ~ 2018.03)
-
+KITRI Best of the Best 6th Vulnerability Analysis 
 
  
