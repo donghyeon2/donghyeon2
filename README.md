@@ -15,6 +15,8 @@ make more sefe
 
 📚 Personal History
 Tokyo University of Science (2021.04 ~)
+
+
 KITRI Best of the Best 6th Vulnerability Analysis (2017.06 ~ 2018.03)
 
 
